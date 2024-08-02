@@ -22,22 +22,20 @@ To run this project locally, follow these steps:
    ```
 3. Install the dependencies:
    ```bash
-   npm install
+   npm install  `
    ```
 
 ## Usage
 
 To start the development server, run:
-
-````bash
+```
 npm start
-
-
-
- <img src="Images/img1.png" alt="screenshots">
-    <img src="Images/img2.png" alt="screenshots">
-    <img src="Images/img3.png" alt="screenshots">
-    <img src="Images/img4.png" alt="screenshots">
+```
+<img src="Images/img1.png" alt="screenshots">
+ <img src="Images/img2.png" alt="screenshots">
+ <img src="Images/img3.png" alt="screenshots">
+ <img src="Images/img4.png" alt="screenshots">
+<hr>
 
 
 # React + TypeScript + Vite
